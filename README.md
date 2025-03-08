@@ -13,4 +13,4 @@ at this current stage, my blockchain is consisted of blocks w data, has digital 
 
 as for the future of this project, i hope to include transactions, signatures and wallets soon. 
 
-![image](https://github.com/user-attachments/assets/cdfd4426-9617-4ed1-9b06-95fafcbdaec5)
+
